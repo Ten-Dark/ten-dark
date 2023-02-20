@@ -47,3 +47,9 @@ I am a junior backend-developer. <img src="https://media.giphy.com/media/lcs5BL0
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Ten-Dark&theme=radical&hide_border=%D0%BB%D0%BE%D0%B6%D1%8C&border_radius=1&date_format=j%20M%5B%20Y%5D"/>
 </div>
+  
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGY2NGI1YTk4NzM0ZjA2NGMyMDc5OWNkZTRiY2Q3MDA4NDdlYWRiMCZjdD1n/vrxxqQbyRxYi6scCjT/giphy.gif"/>
+</div>
