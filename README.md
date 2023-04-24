@@ -25,8 +25,8 @@ I am a junior frontend-developer. <img src="https://media.giphy.com/media/lcs5BL
 :zap: My stack:
 <div>
   <div>
-    <img src="https://shields.io/badge/laravel-black?logo=laravel&logoColor=orange&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Php-9-orange?labelColor=black&style=for-the-badge"/>
+    <img src="https://shields.io/badge/laravel-black?logo=VueX&logoColor=orange&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/JavaScript-orange?labelColor=black&style=for-the-badge"/>
     <img src="https://shields.io/badge/Vue-black?logo=Vue.js&logoColor=orange&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Git-hub-orange?labelColor=black&logo=git&style=for-the-badge"/>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ten-Dark&layout=compact&theme=vision-friendly-dark"/>
