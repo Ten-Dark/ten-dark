@@ -16,7 +16,7 @@
 :woman_technologist: About Me :
 </div>
 <div>
-I am a junior frontend-developer. <img src="https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif" width="50">
+I am a junior frontend-developer.    <img src="https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif" width="50">
 
 :telescope: I’m contributing frontends for building web applications.
 
@@ -28,7 +28,8 @@ I am a junior frontend-developer. <img src="https://media.giphy.com/media/lcs5BL
     <img src="https://img.shields.io/badge/JavaScript-black?labelColor=orange&style=for-the-badge"/>
     <img src="https://shields.io/badge/Vue-black?logo=Vue.js&logoColor=orange&style=for-the-badge"/>
     <img src="https://shields.io/badge/VueX-black?logo=Vue.js&logoColor=orange&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Git-hub-orange?labelColor=black&logo=git&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Vue-X-orange?labelColor=black&&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Nuxt-JS-orange?labelColor=black&&style=for-the-badge"/>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ten-Dark&layout=compact&theme=vision-friendly-dark"/>
    </div
    
@@ -36,7 +37,7 @@ I am a junior frontend-developer. <img src="https://media.giphy.com/media/lcs5BL
    
    <div>
     <img src="https://shields.io/badge/Docker-black?logo=Docker&logoColor=blue&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Postgres-black?labelColor=black&logo=PostgreSql&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Git-hub-orange?labelColor=black&logo=git&style=for-the-badge"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Ten-Dark&show_icons=true&theme=radical"/>
   </div>
  </divn
