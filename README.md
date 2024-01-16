@@ -25,12 +25,14 @@ I am a junior frontend-developer.    <img src="https://media.giphy.com/media/lcs
 :zap: My stack:
 <div>
       <div>
-        <img src="https://img.shields.io/badge/JavaScript-black?labelColor=black&logo=JavaScript&&style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/React-black?labelColor=black&&logo=React&&style=for-the-badge" alt="react"/>
+        <img src="https://img.shields.io/badge/JavaScript-black?labelColor=black&logo=JavaScript&logoColor=F7DF1E&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/TypeScript-black?labelColor=black&logo=TypeScript&logoColor=3178C6&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/React-black?labelColor=black&&logo=React&logoColor=61DAFB&style=for-the-badge" alt="react"/>
       </div>
      <div>
-       <img src="https://shields.io/badge/Docker-black?logo=Docker&logoColor=blue&style=for-the-badge"/>
-       <img src="https://img.shields.io/badge/Git-hub-orange?labelColor=black&logo=git&style=for-the-badge"/>
+       <img src="https://img.shields.io/badge/Node-black?labelColor=black&logo=Node.JS&logoColor=33933&style=for-the-badge"/>
+       <img src="https://shields.io/badge/Docker-black?logo=Docker&logoColor=blue&logoColor=2496ED&style=for-the-badge"/>
+       <img src="https://img.shields.io/badge/Git-hub-orange?&labelColor=black&logo=git&logoColor=F05032&style=for-the-badge"/>
      </div>
 </div>
 
