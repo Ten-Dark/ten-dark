@@ -24,23 +24,21 @@ I am a junior frontend-developer.    <img src="https://media.giphy.com/media/lcs
 
 :zap: My stack:
 <div>
-  <div>
       <div>
-        <img src="https://img.shields.io/badge/JavaScript-black?labelColor=orange&&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/JavaScript-black?labelColor=black&logo=JavaScript&&style=for-the-badge"/>
         <img src="https://img.shields.io/badge/React-black?labelColor=black&&logo=React&&style=for-the-badge" alt="react"/>
-     </div
+      </div>
      <div>
        <img src="https://shields.io/badge/Docker-black?logo=Docker&logoColor=blue&style=for-the-badge"/>
        <img src="https://img.shields.io/badge/Git-hub-orange?labelColor=black&logo=git&style=for-the-badge"/>
      </div>
-  </div>
 </div>
 
 ---
 
 <div align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ten-Dark&layout=compact&theme=vision-friendly-dark"/> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Ten-Dark&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ten-Dark&show_icons=true&theme=radical&textColor=white&custom_title=Amir+Syleimanov+GitHub+Stats"/>
 </div>
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ten-Dark&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon"/></a>
