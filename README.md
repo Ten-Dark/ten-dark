@@ -42,7 +42,9 @@ I am a junior frontend-developer.    <img src="https://media.giphy.com/media/lcs
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ten-Dark&layout=compact&theme=vision-friendly-dark"/> 
   <img src="https://github-readme-stats.vercel.app/api?username=Ten-Dark&show_icons=true&theme=radical"/>
 </div>
-  
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ten-Dark&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon"/></a>
+</div>
 ---
 
 <div align="center">
