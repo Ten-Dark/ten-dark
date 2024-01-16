@@ -45,6 +45,7 @@ I am a junior frontend-developer.    <img src="https://media.giphy.com/media/lcs
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ten-Dark&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon"/></a>
 </div>
+
 ---
 
 <div align="center">
