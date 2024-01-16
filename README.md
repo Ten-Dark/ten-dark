@@ -26,7 +26,7 @@ I am a junior frontend-developer.    <img src="https://media.giphy.com/media/lcs
 <div>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-black?labelColor=orange&style=for-the-badge"/>
-    <img src="https://shields.io/badge/React-black?logo=React.js&logoColor=blue&style=for-the-badge"/>
+    <img src="https://shields.io/badge/React-black?logo=React.js&logoColor=blue?labelColor=black&&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Nuxt-JS-orange?labelColor=black&&style=for-the-badge"/>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ten-Dark&layout=compact&theme=vision-friendly-dark"/>
    </div
