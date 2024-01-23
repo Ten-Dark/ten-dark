@@ -32,7 +32,7 @@ I am a junior frontend-developer.    <img src="https://media.giphy.com/media/lcs
      <div>
        <img src="https://img.shields.io/badge/Node-black?labelColor=black&logo=Node.JS&logoColor=33933&style=for-the-badge"/>
        <img src="https://shields.io/badge/Docker-black?logo=Docker&logoColor=2496ED&style=for-the-badge"/>
-       <img src="https://shields.io/badge/Postgre-SQL-black?logo=PostgreSQL&logoColor=black&style=for-the-badge"/>
+       <img src="https://shields.io/badge/PostgreSQL-black?logo=PostgreSQL&logoColor=41691E1&style=for-the-badge"/>
        <img src="https://img.shields.io/badge/Git-hub-orange?&labelColor=black&logo=git&logoColor=F05032&style=for-the-badge"/>
      </div>
 </div>
