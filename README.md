@@ -16,7 +16,6 @@
 :woman_technologist: About Me :
 </div>
 <div>
-I am a junior frontend-developer.    <img src="https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif" width="50">
 
 :telescope: I’m contributing frontends for building web applications.
 
